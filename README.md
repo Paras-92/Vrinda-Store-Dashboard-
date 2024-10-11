@@ -1,4 +1,4 @@
-# Vrinda Store Annual Sales Dashboard
+# Vrinda Store Annual Sales Excel Dashboard
 
 ## Overview
 
