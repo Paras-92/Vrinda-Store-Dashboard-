@@ -20,6 +20,7 @@ The dashboard tackles the following critical questions:
 6. **Demographic Relations**: Exploring the relationship between age and gender based on the number of orders.
 7. **Sales Channels**: Determining which sales channel contributed the most to overall sales.
 8. **Top Selling Categories**: Identifying the highest selling product categories.
+![image](https://github.com/user-attachments/assets/edaeca97-eb69-47c2-9aa0-5388d05aacc2)
 
 ## Features
 
